@@ -1,0 +1,27 @@
+# Visual Studio / .NET
+.vs/
+[Db]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Angular / Frontend
+frontend/node_modules/
+frontend/.angular/
+frontend/dist/
+frontend/tmp/
+frontend/out-of-memory.log
+frontend/.sass-cache/
+
+# OS/System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.bak
